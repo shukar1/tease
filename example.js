@@ -25,7 +25,8 @@ function b() {
 function c() {
 
 }
+
 // @tease 3 -> 9
 function d() {
-return 8
+  return 9;
 }
